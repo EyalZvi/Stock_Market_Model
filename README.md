@@ -1,6 +1,6 @@
 # Stock Market Model
 
-**Our project is a representation of a real-time stock market application using C socket proggraming.**
+**Our project is a representation of a real-time stock market application using C socket programing.**
 
 Clients will be able to register to an open server with a unique username
 and password and will then be assigned a unique stock portfolio that 
