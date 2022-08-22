@@ -25,3 +25,7 @@ updates include changing stock prices and best current prices for them.
 we will add a sequence number to the UDP packets in order to reliably 
 keep the clients up to date with relevant new updates and not ones that 
 were for some reason delayed (they will be dropped).
+
+![image](https://user-images.githubusercontent.com/92316457/185906629-acbaedd6-9a38-4ba9-8a71-c43636b47a9d.png)
+
+![image](https://user-images.githubusercontent.com/92316457/185906656-aec89605-f42c-4357-89f2-bbda6daa46c5.png)
