@@ -2,6 +2,8 @@
 
 **Our project is a representation of a real-time stock market application using C socket programing.**
 
+![image](https://user-images.githubusercontent.com/92316457/185906484-176c981a-a8e4-46c0-817b-f64b2d051e5c.png)
+
 Clients will be able to register to an open server with a unique username
 and password and will then be assigned a unique stock portfolio that 
 belongs to them.
